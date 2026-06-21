@@ -61,7 +61,6 @@
 ---
  
 ## 📊 Моя GitHub-статистика
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -72,15 +71,37 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophies" />
 </div>
 
-## Активность за последний месяц
+## 📈 Активность за последний месяц
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=tokyo-night&hide_border=true&radius=16&area=true" alt="Activity Graph" />
 </div>
 
+## ⏱️ Статистика кодинга (Wakatime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+</div>
+
+<details>
+<summary>📌 <b>Детальная статистика по языкам (развернуть)</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=tokyonight&hide_border=true" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+</div>
+
+</details>
+
+## 🐍 Вклад в Open Source
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pipotka/Pipotka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ---
 
 <details>
