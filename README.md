@@ -59,6 +59,42 @@
 - 📍 Локация: Санкт-Петербург
 
 ---
-⭐ *Если вам понравились мои проекты, буду рад звёздочке на репозиториях!*  
-📊 *GitHub Stats:*  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true)
+ 
+## 📊 Моя GitHub-статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+</div>
+
+## Активность за последний месяц
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=tokyo-night&hide_border=true&radius=16&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<details>
+<summary>📌 <b>Детальная статистика (развернуть)</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=tokyo_night" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=tokyo_night" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=tokyo_night" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=tokyo_night" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=tokyo_night&utcOffset=3" alt="Productive Time" />
+</div>
+
+</details>
+
+⭐ *Если вам понравились мои проекты, буду рад звёздочке на репозиториях!* 
