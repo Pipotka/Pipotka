@@ -4,12 +4,39 @@
 Выпускник колледжа с **красным дипломом** по специальности «Информационные системы и программирование». Увлекаюсь проектированием архитектуры и менторством. Ищу сильную команду, где смогу применять свои навыки для решения реальных бизнес-задач и профессионально расти.
 
 ## 🛠 Технический стек
-| Категория | Технологии |
-|---|---|
-| 🔹 **Backend** | `C#` `.NET 8` `ASP.NET Core` `EF Core` `PostgreSQL` `REST API` `Hangfire` |
-| 🔹 **Архитектура & Качество** | `Clean Architecture` `Repository + Unit of Work` `SOLID` `xUnit` `Moq` `FluentAssertions` `AutoMapper` `FluentValidation` |
-| 🔹 **DevOps & Инструменты** | `Git` `Docker` `Nginx` `Swagger` `AI-assisted development` |
-| 🔹 **Frontend** | `TypeScript` `React` `Zod` `TanStack Query` `Blazor` |
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+### Архитектура & Качество кода
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-FFD700?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-4CAF50?style=for-the-badge)
+![Unit of Work](https://img.shields.io/badge/Unit_of_Work-FF9800?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-2B579A?style=for-the-badge)
+![Moq](https://img.shields.io/badge/Moq-68217A?style=for-the-badge)
+![FluentAssertions](https://img.shields.io/badge/Fluent_Assertions-00897B?style=for-the-badge)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/Fluent_Validation-00A58E?style=for-the-badge)
+
+### DevOps & Инструменты
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-E8652E?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![AI Development](https://img.shields.io/badge/AI_Assisted-9C27B0?style=for-the-badge)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ## 💼 Избранный проект
 ### SmartWallet — Fullstack-приложение для управления личными финансами
