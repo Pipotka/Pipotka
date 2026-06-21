@@ -6,7 +6,7 @@
 ## 🛠 Технический стек
 | Категория | Технологии |
 |---|---|
-| 🔹 **Backend** | `C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `PostgreSQL` `REST API` `Hangfire` |
+| 🔹 **Backend** | `C#` `.NET 8` `ASP.NET Core` `EF Core` `PostgreSQL` `REST API` `Hangfire` |
 | 🔹 **Архитектура & Качество** | `Clean Architecture` `Repository + Unit of Work` `SOLID` `xUnit` `Moq` `FluentAssertions` `AutoMapper` `FluentValidation` |
 | 🔹 **DevOps & Инструменты** | `Git` `Docker` `Nginx` `Swagger` `AI-assisted development` |
 | 🔹 **Frontend** | `TypeScript` `React` `Zod` `TanStack Query` `Blazor` |
