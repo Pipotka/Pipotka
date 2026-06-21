@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Привет! Я Насрудин Абдулгаджиев
+### 🚀 Junior C#/.NET Backend Developer | Санкт-Петербург
 
-<!--
-**Pipotka/Pipotka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Обо мне
+Выпускник колледжа с **красным дипломом** по специальности «Информационные системы и программирование». Увлекаюсь проектированием чистой архитектуры, написанием тестируемого кода и менторством. В pet-проектах активно применяю паттерны `Repository`/`Unit of Work`, настраиваю модульное тестирование и контейнеризацию. Ищу сильную команду, где смогу применять свои навыки для решения реальных бизнес-задач и профессионально расти.
 
-Here are some ideas to get you started:
+## 🛠 Технический стек
+| Категория | Технологии |
+|---|---|
+| 🔹 **Backend** | `C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `PostgreSQL` `REST API` `Blazor` |
+| 🔹 **Архитектура & Качество** | `Clean Architecture` `Repository + Unit of Work` `SOLID` `xUnit` `Moq` `FluentAssertions` `AutoMapper` `FluentValidation` |
+| 🔹 **DevOps & Инструменты** | `Git` `Docker` `Docker Compose` `Nginx` `Hangfire` `Swagger` `AI-assisted development` |
+| 🔹 **Frontend** | `TypeScript` `React` `Zod` `TanStack Query` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Избранный проект
+### 🪙 SmartWallet — Fullstack-приложение для управления личными финансами
+🛠 **Стек:** `C#` `.NET 8` `ASP.NET Core` `EF Core` `PostgreSQL` `React` `TypeScript` `Docker`
+- 🏗 Спроектировал масштабируемый Web API на .NET 8 с многослойной архитектурой (21 проект), паттернами Repository/Unit of Work, безопасной JWT-аутентификацией и Soft Delete через спецификации.
+- 🧪 Обеспечил надежность системы: покрыл бизнес-логику Unit-тестами (`xUnit`, `Moq`) в 5 независимых проектах и настроил фоновые задачи через `Hangfire`.
+- 🐳 Настроил инфраструктуру: упаковал приложение (API + SPA-клиент) в multi-stage Docker-образы, оркестрировал через `Docker Compose` с SSL-терминацией на `Nginx`.
+
+🔗 [Backend Repository](#) | [Frontend Repository](#) *(замените `#` на реальные ссылки)*
+
+## 🎓 Образование
+**Санкт-Петербургский политехнический колледж городского хозяйства** | 2022 – 2026  
+📜 Специальность: Информационные системы и программирование  
+🏅 Окончил с отличием (красный диплом)
+
+## 📬 Контакты
+Я открыт к стажировкам, Junior-позициям и интересным проектам! Свяжитесь со мной удобным способом:
+- 📧 Email: [22nasrudin@mail.ru](mailto:22nasrudin@mail.ru)
+- 💬 Telegram: [@Nasurino](https://t.me/Nasurino)
+- 🐙 GitHub: [github.com/Pipotka](https://github.com/Pipotka)
+- 📍 Локация: Санкт-Петербург (рассматриваю удалёнку и офис)
+
+---
+⭐ *Если вам понравились мои проекты, буду рад звёздочке на репозиториях!*  
+📊 *GitHub Stats:*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true)
