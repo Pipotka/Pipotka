@@ -62,16 +62,16 @@
  
 ## 📊 Моя GitHub-статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=github-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=github-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=github-dark&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophies" />
 </div>
 
 ## 📈 Активность за последний месяц
@@ -83,7 +83,7 @@
 ## ⏱️ Статистика кодинга (Wakatime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=github-dark&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </div>
 
 <details>
@@ -91,8 +91,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=tokyonight&hide_border=true" alt="Language Distribution" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=github-dark&hide_border=true" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=github-dark&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
 </div>
 
 </details>
