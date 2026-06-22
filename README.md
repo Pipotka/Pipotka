@@ -66,8 +66,8 @@
  
 ## Моя GitHub-статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="49%" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="49%" height="285" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="52%" height="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="47%" height="285" />
   <img src="https://streak-stats.demolab.com?user=Pipotka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="49%" height="300" />
   
 </div>
