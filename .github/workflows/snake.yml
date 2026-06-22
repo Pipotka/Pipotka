@@ -2,12 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # Запускается каждые 12 часов
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Позволяет запускать вручную
+  workflow_dispatch:
 
 permissions:
-  contents: write # Даём права на создание ветки и пуш
+  contents: write
 
 jobs:
   build:
@@ -19,7 +18,7 @@ jobs:
           github_user_name: Pipotka
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff79c6&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
             
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
