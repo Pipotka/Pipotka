@@ -77,7 +77,7 @@
 ## 📈 Активность за последний месяц
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=tokyo-night&hide_border=true&radius=16&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=github-dark&hide_border=true&radius=16&area=true" alt="Activity Graph" />
 </div>
 
 ## ⏱️ Статистика кодинга (Wakatime)
@@ -109,11 +109,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=tokyo_night" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=tokyo_night" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=tokyo_night" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=tokyo_night" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=tokyo_night&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=github-dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=github-dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=github-dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=github-dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=github-dark&utcOffset=3" alt="Productive Time" />
 </div>
 
 </details>
