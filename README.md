@@ -38,15 +38,6 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-## Избранный проект
-### SmartWallet — Fullstack-приложение для управления личными финансами
-**Стек:** `C#` `.NET 8` `ASP.NET Core` `EF Core` `PostgreSQL` `React` `TypeScript` `Docker`
-- Спроектировал Web API на .NET 8 с многослойной архитектурой, паттернами Repository/Unit of Work, безопасной JWT-аутентификацией и Soft Delete через спецификации.
-- Обеспечил надежность системы: покрыл бизнес-логику Unit-тестами (`xUnit`, `Moq`) и настроил фоновые задачи через `Hangfire`.
-- Настроил инфраструктуру: упаковал приложение (API + SPA-клиент) в multi-stage Docker-образы, оркестрировал через `Docker Compose` с SSL-терминацией на `Nginx`.
-
-[Backend Repository](https://github.com/Pipotka/SmartWallet) | [Frontend Repository](https://github.com/Pipotka/SmartWallet-Client)
-
 ## Образование
 **Санкт-Петербургский политехнический колледж городского хозяйства** | 2022 – 2026  
 Специальность: Информационные системы и программирование  
@@ -54,9 +45,8 @@
 
 ## Контакты
 Я открыт к интересным проектам! Свяжитесь со мной удобным способом:
-- 📧 Email: 22nasrudin@mail.ru
-- 💬 Telegram: @Nasurino
-- 📍 Локация: Санкт-Петербург
+- Email: 22nasrudin@mail.ru
+- Telegram: @Nasurino
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pipotka/Pipotka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
