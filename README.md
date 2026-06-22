@@ -53,7 +53,7 @@
 Окончил с отличием (красный диплом)
 
 ## Контакты
-Я открыт к Junior-позициям и интересным проектам! Свяжитесь со мной удобным способом:
+Я открыт к интересным проектам! Свяжитесь со мной удобным способом:
 - 📧 Email: 22nasrudin@mail.ru
 - 💬 Telegram: @Nasurino
 - 📍 Локация: Санкт-Петербург
@@ -66,12 +66,13 @@
  
 ## Моя GitHub-статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pipotka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=merko&hide_border=true" alt="Language Distribution" />
 </div>
 
 ## Активность за последний месяц
@@ -80,37 +81,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=merko&hide_border=true&radius=16&area=true" alt="Activity Graph" />
 </div>
 
-## Статистика кодинга (Wakatime)
+## Статистика кодинга
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=merko&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </div>
-
-<details>
-<summary> <b>Детальная статистика по языкам (развернуть)</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=merko&hide_border=true" alt="Language Distribution" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
-</div>
-
-</details>
-
----
-
-<details>
-<summary> <b>Детальная статистика (развернуть)</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=merko" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=merko" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=merko" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=merko" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=merko&utcOffset=3" alt="Productive Time" />
-</div>
-
-</details>
 
 ⭐ *Если вам понравились мои проекты, буду рад звёздочке на репозиториях!* 
