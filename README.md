@@ -3,7 +3,7 @@
 ## Обо мне
 Выпускник колледжа с **красным дипломом** по специальности «Информационные системы и программирование». Увлекаюсь проектированием архитектуры и менторством. Ищу сильную команду, где смогу применять свои навыки для решения реальных бизнес-задач и профессионально расти.
 
-## 🛠 Технический стек
+## Технический стек
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,7 +38,7 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-## 💼 Избранный проект
+## Избранный проект
 ### SmartWallet — Fullstack-приложение для управления личными финансами
 **Стек:** `C#` `.NET 8` `ASP.NET Core` `EF Core` `PostgreSQL` `React` `TypeScript` `Docker`
 - Спроектировал Web API на .NET 8 с многослойной архитектурой, паттернами Repository/Unit of Work, безопасной JWT-аутентификацией и Soft Delete через спецификации.
@@ -47,73 +47,68 @@
 
 [Backend Repository](https://github.com/Pipotka/SmartWallet) | [Frontend Repository](https://github.com/Pipotka/SmartWallet-Client)
 
-## 🎓 Образование
+## Образование
 **Санкт-Петербургский политехнический колледж городского хозяйства** | 2022 – 2026  
 Специальность: Информационные системы и программирование  
 Окончил с отличием (красный диплом)
 
-## 📬 Контакты
+## Контакты
 Я открыт к Junior-позициям и интересным проектам! Свяжитесь со мной удобным способом:
 - 📧 Email: 22nasrudin@mail.ru
 - 💬 Telegram: @Nasurino
 - 📍 Локация: Санкт-Петербург
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pipotka/Pipotka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
  
-## 📊 Моя GitHub-статистика
+## Моя GitHub-статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=github-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=github-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
+## Активность за последний месяц
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pipotka&theme=github-dark&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=merko&hide_border=true&radius=16&area=true" alt="Activity Graph" />
 </div>
 
-## 📈 Активность за последний месяц
+## Статистика кодинга (Wakatime)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=github-dark&hide_border=true&radius=16&area=true" alt="Activity Graph" />
-</div>
-
-## ⏱️ Статистика кодинга (Wakatime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=github-dark&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=merko&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </div>
 
 <details>
-<summary>📌 <b>Детальная статистика по языкам (развернуть)</b></summary>
+<summary> <b>Детальная статистика по языкам (развернуть)</b></summary>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=github-dark&hide_border=true" alt="Language Distribution" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=github-dark&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=pie&theme=merko&hide_border=true" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
 </div>
 
 </details>
 
-## 🐍 Вклад в Open Source
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pipotka/Pipotka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 ---
 
 <details>
-<summary>📌 <b>Детальная статистика (развернуть)</b></summary>
+<summary> <b>Детальная статистика (развернуть)</b></summary>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=github-dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=github-dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=github-dark" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=github-dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=github-dark&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pipotka&theme=merko" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pipotka&theme=merko" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pipotka&theme=merko" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pipotka&theme=merko" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pipotka&theme=merko&utcOffset=3" alt="Productive Time" />
 </div>
 
 </details>
