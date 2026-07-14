@@ -53,29 +53,4 @@
 </div>
 
 ---
- 
-## Моя GitHub-статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipotka&show_icons=true&theme=merko&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="52%" height="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipotka&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="47%" height="285" />
-  <img src="https://streak-stats.demolab.com?user=Pipotka&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="49%" height="300" />
-  
-</div>
-
-<div align="center">
-  
-</div>
-
-## Активность за последний месяц
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipotka&theme=merko&hide_border=true&radius=16&area=true" alt="Activity Graph" />
-</div>
-
-## Статистика кодинга
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nasrudin&theme=merko&hide_border=true&layout=compact" alt="Wakatime Stats" />
-</div>
-
 ⭐ *Если вам понравились мои проекты, буду рад звёздочке на репозиториях!* 
